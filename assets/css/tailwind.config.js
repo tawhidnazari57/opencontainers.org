@@ -1,4 +1,4 @@
-module.exports = {
+module.exports = {bnbsmartchain
   theme: {
     colors: {
       white: '#FFFFFF',
